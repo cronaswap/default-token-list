@@ -1,0 +1,34 @@
+[
+  {
+    "name": "WCRO Token",
+    "symbol": "WCRO",
+    "address": "0x873c905681Fb587cc12a29DA5CD3c447bE61F146",
+    "chainId": 338,
+    "decimals": 18,
+    "logoURI": "https://testnet.cronaswap.org/images/tokens/0x873c905681Fb587cc12a29DA5CD3c447bE61F146.png"
+  },
+  {
+    "name": "Crona Token",
+    "symbol": "CRONA",
+    "address": "0x7Ac4564724c99e129F79dC000CA594B4631acA81",
+    "chainId": 338,
+    "decimals": 18,
+    "logoURI": "https://testnet.cronaswap.org/images/tokens/0x7Ac4564724c99e129F79dC000CA594B4631acA81.svg"
+  },
+  {
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "address": "0x374AC6edeE4385411FF36BEf74D2c1723bD7A6e8",
+    "chainId": 338,
+    "decimals": 6,
+    "logoURI": "https://testnet.cronaswap.org/images/tokens/0x374AC6edeE4385411FF36BEf74D2c1723bD7A6e8.svg"
+  },
+  {
+    "name": "Tether USD",
+    "symbol": "USDT",
+    "address": "0xE912124f1204208e3EBA49BAbe3Fc1028351808d",
+    "chainId": 338,
+    "decimals": 6,
+    "logoURI": "https://testnet.cronaswap.org/images/tokens/0xE912124f1204208e3EBA49BAbe3Fc1028351808d.svg"
+  }
+]
