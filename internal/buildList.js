@@ -1,8 +1,8 @@
 const { version } = require("../package.json");
 
-const mainnet = require("../tokens/mainnet.json");
-const cronos = require("../tokens/cronos.json");
-const cronosTestnet = require("../tokens/cronos-testnet.json");
+const mainnet = require("../assets/tokens/mainnet.json");
+const cronos = require("../assets/tokens/cronos.json");
+const cronosTestnet = require("../assets/tokens/cronos-testnet.json");
 
 module.exports = function buildList() {
   const parsed = version.split(".");
@@ -16,7 +16,7 @@ module.exports = function buildList() {
     },
     tags: {},
     logoURI:
-      "https://raw.githubusercontent.com/cronaswap/art/master/sushi/logo-256x256.png",
+      "https://raw.githubusercontent.com/cronaswap/default-token-list/master/assets/logox200.png",
     keywords: ["cronaswap", "default"],
     tokens: [
       ...mainnet,
