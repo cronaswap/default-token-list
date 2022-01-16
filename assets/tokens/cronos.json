@@ -310,7 +310,7 @@
     "address": "0x813658e307fA4DAF9B25e7CE1dE3b40012CA2B74",
     "chainId": 25,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0x813658e307fA4DAF9B25e7CE1dE3b40012CA2B74/ZeusLogo.png"
+    "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0x813658e307fA4DAF9B25e7CE1dE3b40012CA2B74/logo.png"
   },
   {
     "name": "ZeuFinance",
@@ -318,7 +318,7 @@
     "address": "0x26d787e06412530EBD4d1eCDE613Eff5bf2eBA04",
     "chainId": 25,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0x26d787e06412530EBD4d1eCDE613Eff5bf2eBA04/AthLogo.png"
+    "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0x26d787e06412530EBD4d1eCDE613Eff5bf2eBA04/logo.png"
   },
   {
     "name": "Frens",
