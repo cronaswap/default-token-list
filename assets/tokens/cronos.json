@@ -343,5 +343,13 @@
     "chainId": 25,
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0x17C00923Ce44f2748DB6A14f979D55C497A267e4/logo.png"
+  },
+  {
+    "name": "Bank Of Cronos",
+    "symbol": "BOC",
+    "address": "0xe5786DDFc4D6DcA0973D1c5b02987cBbac66ed87",
+    "chainId": 25,
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0xe5786DDFc4D6DcA0973D1c5b02987cBbac66ed87/logo.png"
   }
 ]
