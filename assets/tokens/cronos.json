@@ -329,6 +329,14 @@
     "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0x0EdeC4bE261B22be6096Ec4960247697891A2045/logo.png"
   },
   {
+    "name": "Matrix",
+    "symbol": "MTX",
+    "address": "0x35c167b6a1Fc4D1D2b55293367ef5b8D4aF0a696",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0x35c167b6a1Fc4D1D2b55293367ef5b8D4aF0a696/logo.png"
+  },
+  {
     "name": "Lazy Horse Race Club",
     "symbol": "LHRC",
     "address": "0xEfD450027bD0EE84AfaFbC75f5A80C367eFBF651",
@@ -336,6 +344,7 @@
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0xEfD450027bD0EE84AfaFbC75f5A80C367eFBF651/logo.png"
   },
+
   {
     "name": "CrO cRo",
     "symbol": "CROCRO",
@@ -343,6 +352,30 @@
     "chainId": 25,
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0x17C00923Ce44f2748DB6A14f979D55C497A267e4/logo.png"
+  },
+  {
+    "name": " DarkCrypto",
+    "symbol": "DARK",
+    "address": "0x83b2AC8642aE46FC2823Bc959fFEB3c1742c48B5",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0x83b2AC8642aE46FC2823Bc959fFEB3c1742c48B5/logo.svg"
+  },
+  {
+    "name": "RefuToken",
+    "symbol": "REFU",
+    "address": "0xea0a4546C3AFebcc2Bc53F3d42Ddc66fcBe7c25B",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0xea0a4546C3AFebcc2Bc53F3d42Ddc66fcBe7c25B/logo.svg"
+  },
+  {
+    "name": "ESSO Token",
+    "symbol": "ESSO",
+    "address": "0xc82eA25896F065cB6E3ae298cD1f23FE58516A35",
+    "chainId": 25,
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0xc82eA25896F065cB6E3ae298cD1f23FE58516A35/logo.svg"
   },
   {
     "name": "Bank Of Cronos",

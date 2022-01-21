@@ -20,5 +20,5 @@ CronaSwap Pair Address of Token:
 
 Link to official Twitter account:
 Link to the official homepage of token:
-Link to Token Logo (102x102 SVG, Circular logo):
+Link to Token Logo (102x102 PNG, Circular logo):
 Link to CoinMarketCap or CoinGecko page of token (If any):
