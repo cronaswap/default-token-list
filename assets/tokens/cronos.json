@@ -368,5 +368,13 @@
     "chainId": 25,
     "decimals": 9,
     "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0xe5786DDFc4D6DcA0973D1c5b02987cBbac66ed87/logo.png"
+  },
+  {
+    "name": "CroNode",
+    "symbol": "CRN",
+    "address": "0x8174BaC1453c3AC7CaED909c20ceaDeb5E1CDA00",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0x8174BaC1453c3AC7CaED909c20ceaDeb5E1CDA00/logo.png"
   }
 ]
