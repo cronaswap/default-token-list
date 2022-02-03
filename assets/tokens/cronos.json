@@ -55,7 +55,6 @@
     "decimals": 8,
     "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0x062E66477Faf219F25D27dCED647BF57C3107d52/logo.png"
   },
-  
   {
     "name": "Polygon",
     "symbol": "MATIC",
@@ -95,6 +94,55 @@
     "chainId": 25,
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0xfA9343C3897324496A05fC75abeD6bAC29f8A40f/logo.png"
+  },
+  {
+    "name": "ATOM Coin",
+    "symbol": "ATOM",
+    "address": "0xB888d8Dd1733d72681b30c00ee76BDE93ae7aa93",
+    "chainId": 25,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0xB888d8Dd1733d72681b30c00ee76BDE93ae7aa93/logo.png"
+  },
+  {
+    "name": "LUNA Token",
+    "symbol": "LUNA",
+    "address": "0x9278C8693e7328bef49804BacbFb63253565dffD",
+    "chainId": 25,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0x9278C8693e7328bef49804BacbFb63253565dffD/logo.png"
+  },
+  {
+    "name": "Dogelon Mars",
+    "symbol": "ELON",
+    "address": "0x02DCcaf514C98451320a9365C5b46C61d3246ff3",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0x02DCcaf514C98451320a9365C5b46C61d3246ff3/logo.png"
+  },
+  {
+    "name": "Enjin Coin",
+    "symbol": "ENJ",
+    "address": "0x0A92ea8a197919aCb9BC26660Ed0D43D01ed26b7",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0x0A92ea8a197919aCb9BC26660Ed0D43D01ed26b7/logo.png"
+  },
+  {
+    "name": "SHIBA INU",
+    "symbol": "SHIB",
+    "address": "0xbED48612BC69fA1CaB67052b42a95FB30C1bcFee",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0xbED48612BC69fA1CaB67052b42a95FB30C1bcFee/logo.png"
+  },
+
+  {
+    "name": "ChainLink Token",
+    "symbol": "LINK",
+    "address": "0xBc6f24649CCd67eC42342AccdCECCB2eFA27c9d9",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0xBc6f24649CCd67eC42342AccdCECCB2eFA27c9d9/logo.png"
   },
   {
     "name": "Meso Finance",
@@ -153,14 +201,6 @@
     "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0x0dCb0CB0120d355CdE1ce56040be57Add0185BAa/logo.png"
   },
   {
-    "name": "SHIBA INU",
-    "symbol": "SHIB",
-    "address": "0xbED48612BC69fA1CaB67052b42a95FB30C1bcFee",
-    "chainId": 25,
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0xbED48612BC69fA1CaB67052b42a95FB30C1bcFee/logo.png"
-  },
-  {
     "name": "MetaversePixels",
     "symbol": "MetaPx",
     "address": "0x03627840190152771e86e5E702175B00219F6471",
@@ -175,14 +215,6 @@
     "chainId": 25,
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0x7a6a832eB5F58245F7d75eD980cED849D69A98FD/logo.png"
-  },
-  {
-    "name": "Salem Finance",
-    "symbol": "SALEM",
-    "address": "0x637CB66526244029407046867E1E0DFD28b2294E",
-    "chainId": 25,
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0x637CB66526244029407046867E1E0DFD28b2294E/logo.png"
   },
   {
     "name": "Singular.farm",
@@ -225,22 +257,6 @@
     "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0x3405A1bd46B85c5C029483FbECf2F3E611026e45/logo.png"
   },
   {
-    "name": "GSHARE",
-    "symbol": "GSHARE",
-    "address": "0x9CE609804884b862f2149414AC0De6d17994700b",
-    "chainId": 25,
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0x9CE609804884b862f2149414AC0De6d17994700b/logo.png"
-  },
-  {
-    "name": "Gaur.money",
-    "symbol": "GAUR",
-    "address": "0xF14AF8434E39e35d4E660A3D93EF920C9711EBB9",
-    "chainId": 25,
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0xF14AF8434E39e35d4E660A3D93EF920C9711EBB9/logo.png"
-  },
-  {
     "name": "CRO Max Token",
     "symbol": "CROMAX",
     "address": "0x1985127d1B21af04d09a69Cdcb1dD33fd8961e9c",
@@ -248,22 +264,7 @@
     "decimals": 9,
     "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0x1985127d1B21af04d09a69Cdcb1dD33fd8961e9c/logo.png"
   },
-  {
-    "name": "ATOM Coin",
-    "symbol": "ATOM",
-    "address": "0xB888d8Dd1733d72681b30c00ee76BDE93ae7aa93",
-    "chainId": 25,
-    "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0xB888d8Dd1733d72681b30c00ee76BDE93ae7aa93/logo.png"
-  },
-  {
-    "name": "ChainLink Token",
-    "symbol": "LINK",
-    "address": "0xBc6f24649CCd67eC42342AccdCECCB2eFA27c9d9",
-    "chainId": 25,
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0xBc6f24649CCd67eC42342AccdCECCB2eFA27c9d9/logo.png"
-  },
+  
   {
     "name": "Croblanc Token",
     "symbol": "CROBLANC",
