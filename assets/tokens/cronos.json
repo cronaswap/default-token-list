@@ -217,6 +217,14 @@
     "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0x7a6a832eB5F58245F7d75eD980cED849D69A98FD/logo.png"
   },
   {
+    "name": "Salem Finance",
+    "symbol": "SALEM",
+    "address": "0x637CB66526244029407046867E1E0DFD28b2294E",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0x637CB66526244029407046867E1E0DFD28b2294E/logo.png"
+  },
+  {
     "name": "Singular.farm",
     "symbol": "DUO",
     "address": "0x4ff6334aa95aFfC85F09738eEfc866cBEA7DC7c6",
@@ -274,22 +282,6 @@
     "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0xD3ceCBE5639D05Aed446Da11F08D495CA6bF359F/logo.png"
   },
   {
-    "name": "Galatea gDIVS",
-    "symbol": "gDIVS",
-    "address": "0x19B021B9C15707EAdd74AF0A4D5Eb905733f2A32",
-    "chainId": 25,
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0x19B021B9C15707EAdd74AF0A4D5Eb905733f2A32/logo.png"
-  },
-  {
-    "name": "Galatea gCASH",
-    "symbol": "gCASH",
-    "address": "0x8420454d4b5f436dbCb5913609F3848350B8723A",
-    "chainId": 25,
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0x8420454d4b5f436dbCb5913609F3848350B8723A/logo.png"
-  },
-  {
     "name": "AvtoCROSS",
     "symbol": "CROSS",
     "address": "0x6ef20cA7E493c52095e892DAB78a7FD0e7e2a279",
@@ -314,14 +306,6 @@
     "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0x0EdeC4bE261B22be6096Ec4960247697891A2045/logo.png"
   },
   {
-    "name": "Matrix",
-    "symbol": "MTX",
-    "address": "0x35c167b6a1Fc4D1D2b55293367ef5b8D4aF0a696",
-    "chainId": 25,
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0x35c167b6a1Fc4D1D2b55293367ef5b8D4aF0a696/logo.png"
-  },
-  {
     "name": "Lazy Horse Race Club",
     "symbol": "LHRC",
     "address": "0xEfD450027bD0EE84AfaFbC75f5A80C367eFBF651",
@@ -329,7 +313,6 @@
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0xEfD450027bD0EE84AfaFbC75f5A80C367eFBF651/logo.png"
   },
-
   {
     "name": "CrO cRo",
     "symbol": "CROCRO",
