@@ -10,10 +10,10 @@
   {
     "name": "Crona Token",
     "symbol": "CRONA",
-    "address": "0x7Ac4564724c99e129F79dC000CA594B4631acA81",
+    "address": "0x7B6D3ec86493F7930EdA24a33C1A316bfD405188",
     "chainId": 338,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos-testnet/0x7Ac4564724c99e129F79dC000CA594B4631acA81/logo.svg"
+    "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos-testnet/0x7B6D3ec86493F7930EdA24a33C1A316bfD405188/logo.svg"
   },
   {
     "name": "USD Coin",

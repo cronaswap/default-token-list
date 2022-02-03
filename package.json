@@ -1,7 +1,7 @@
 {
   "name": "@cronaswap/default-token-list",
   "license": "MIT",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "description": "◦ The CronaSwap default token list",
   "main": "build/cronaswap-default.tokenlist.json",
   "scripts": {
