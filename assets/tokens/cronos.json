@@ -96,6 +96,14 @@
     "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0xfA9343C3897324496A05fC75abeD6bAC29f8A40f/logo.png"
   },
   {
+    "name": "DOT",
+    "symbol": "DOT",
+    "address": "0x994047FE66406CbD646cd85B990E11D7F5dB8fC7",
+    "chainId": 25,
+    "decimals": 10,
+    "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0x994047FE66406CbD646cd85B990E11D7F5dB8fC7/logo.png"
+  },
+  {
     "name": "ATOM Coin",
     "symbol": "ATOM",
     "address": "0xB888d8Dd1733d72681b30c00ee76BDE93ae7aa93",
