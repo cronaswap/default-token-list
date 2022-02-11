@@ -384,5 +384,22 @@
     "chainId": 25,
     "decimals": 9,
     "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0xCC6e924721F75af3A8F8282216569276f3F2a104/logo.png"
+  },
+  {
+    "name": "KRON",
+    "symbol": "Krypton Protocol",
+    "address": "0x09AdEDA0496eDe941B3bE4B81E124202D5E8aB08",
+    "chainId": 25,
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0x09AdEDA0496eDe941B3bE4B81E124202D5E8aB08/logo.png"
+  },
+  {
+    "name": "CROISSANT",
+    "symbol": "Croissant Games",
+    "address": "0xa0C3c184493f2Fae7d2f2Bd83F195a1c300FA353",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0xa0C3c184493f2Fae7d2f2Bd83F195a1c300FA353/logo.png"
   }
+  
 ]
