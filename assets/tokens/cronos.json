@@ -388,10 +388,10 @@
   {
     "name": "KRON",
     "symbol": "Krypton Protocol",
-    "address": "0x09AdEDA0496eDe941B3bE4B81E124202D5E8aB08",
+    "address": "0x1771949CCe723e5707639134baE661A868e38198",
     "chainId": 25,
     "decimals": 9,
-    "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0x09AdEDA0496eDe941B3bE4B81E124202D5E8aB08/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0x1771949CCe723e5707639134baE661A868e38198/logo.png"
   },
   {
     "name": "CROISSANT",
