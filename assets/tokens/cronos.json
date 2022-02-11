@@ -394,8 +394,8 @@
     "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0x1771949CCe723e5707639134baE661A868e38198/logo.png"
   },
   {
-    "name": "CROISSANT",
-    "symbol": "Croissant Games",
+    "name": "Croissant Games",
+    "symbol": "CROISSANT",
     "address": "0xa0C3c184493f2Fae7d2f2Bd83F195a1c300FA353",
     "chainId": 25,
     "decimals": 18,
