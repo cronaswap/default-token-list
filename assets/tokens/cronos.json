@@ -338,14 +338,6 @@
     "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0x83b2AC8642aE46FC2823Bc959fFEB3c1742c48B5/logo.svg"
   },
   {
-    "name": "RefuToken",
-    "symbol": "REFU",
-    "address": "0xea0a4546C3AFebcc2Bc53F3d42Ddc66fcBe7c25B",
-    "chainId": 25,
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0xea0a4546C3AFebcc2Bc53F3d42Ddc66fcBe7c25B/logo.svg"
-  },
-  {
     "name": "ESSO Token",
     "symbol": "ESSO",
     "address": "0xc82eA25896F065cB6E3ae298cD1f23FE58516A35",
@@ -386,12 +378,12 @@
     "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0xCC6e924721F75af3A8F8282216569276f3F2a104/logo.png"
   },
   {
-    "name": "KRON",
-    "symbol": "Krypton Protocol",
-    "address": "0x1771949CCe723e5707639134baE661A868e38198",
+    "name": "BANK",
+    "symbol": "CroBank",
+    "address": "0x55210C2a69b4c52a9d9289A257D54d35C4a2d2eC",
     "chainId": 25,
     "decimals": 9,
-    "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0x1771949CCe723e5707639134baE661A868e38198/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0x55210C2a69b4c52a9d9289A257D54d35C4a2d2eC/logo.png"
   },
   {
     "name": "Croissant Games",
@@ -401,5 +393,4 @@
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0xa0C3c184493f2Fae7d2f2Bd83F195a1c300FA353/logo.png"
   }
-  
 ]
