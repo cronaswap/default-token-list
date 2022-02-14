@@ -378,8 +378,8 @@
     "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0xCC6e924721F75af3A8F8282216569276f3F2a104/logo.png"
   },
   {
-    "name": "BANK",
-    "symbol": "CroBank",
+    "name": "CroBank",
+    "symbol": "BANK",
     "address": "0x55210C2a69b4c52a9d9289A257D54d35C4a2d2eC",
     "chainId": 25,
     "decimals": 9,
