@@ -392,5 +392,13 @@
     "chainId": 25,
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0xa0C3c184493f2Fae7d2f2Bd83F195a1c300FA353/logo.png"
+  },
+  {
+    "name": "Cougar Token",
+    "symbol": "CGS",
+    "address": "0x4e57e27e4166275Eb7f4966b42A201d76e481B03",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0x4e57e27e4166275Eb7f4966b42A201d76e481B03/logo.png"
   }
 ]
