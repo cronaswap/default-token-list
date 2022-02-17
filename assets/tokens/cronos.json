@@ -143,7 +143,14 @@
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0xbED48612BC69fA1CaB67052b42a95FB30C1bcFee/logo.png"
   },
-
+  {
+    "name": "ADA Token",
+    "symbol": "ADA",
+    "address": "0x0e517979C2c1c1522ddB0c73905e0D39b3F990c0",
+    "chainId": 25,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0x0e517979C2c1c1522ddB0c73905e0D39b3F990c0/logo.svg"
+  },
   {
     "name": "ChainLink Token",
     "symbol": "LINK",
