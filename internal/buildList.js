@@ -3,6 +3,7 @@ const { version } = require("../package.json");
 const mainnet = require("../assets/tokens/mainnet.json");
 const cronos = require("../assets/tokens/cronos.json");
 const cronosTestnet = require("../assets/tokens/cronos-testnet.json");
+const bscTestnet = require("../assets/tokens/bsc-testnet.json");
 
 module.exports = function buildList() {
   const parsed = version.split(".");
@@ -20,6 +21,7 @@ module.exports = function buildList() {
     keywords: ["cronaswap", "default"],
     tokens: [
       ...mainnet,
+      ...bscTestnet,
       ...cronos,
       ...cronosTestnet,
     ]
