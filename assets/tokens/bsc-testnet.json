@@ -2,10 +2,10 @@
   {
     "name": "WBNB Token",
     "symbol": "WBNB",
-    "address": "0x2c149a0b0C0225469DC2eA9619Fc90baDF193414",
+    "address": "0xD3c2fb1A20bE1e8BcBA44594d677f37f3A193ED5",
     "chainId": 97,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/bsc-testnet/0x2c149a0b0C0225469DC2eA9619Fc90baDF193414/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/bsc-testnet/0xD3c2fb1A20bE1e8BcBA44594d677f37f3A193ED5/logo.png"
   },
   {
     "name": "Crona Token",
