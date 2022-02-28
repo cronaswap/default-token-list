@@ -1,7 +1,7 @@
 [
   {
-    "name": "WCRO Token",
-    "symbol": "WCRO",
+    "name": "WBNB Token",
+    "symbol": "WBNB",
     "address": "0x2c149a0b0C0225469DC2eA9619Fc90baDF193414",
     "chainId": 97,
     "decimals": 18,
