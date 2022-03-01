@@ -272,14 +272,6 @@
     "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0x5b5Fe1238aca91C65683aCd7f9D9Bf922e271EAA/logo.png"
   },
   {
-    "name": "Bison",
-    "symbol": "BISON",
-    "address": "0x3405A1bd46B85c5C029483FbECf2F3E611026e45",
-    "chainId": 25,
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0x3405A1bd46B85c5C029483FbECf2F3E611026e45/logo.png"
-  },
-  {
     "name": "CRO Max Token",
     "symbol": "CROMAX",
     "address": "0x1985127d1B21af04d09a69Cdcb1dD33fd8961e9c",
@@ -287,7 +279,6 @@
     "decimals": 9,
     "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0x1985127d1B21af04d09a69Cdcb1dD33fd8961e9c/logo.png"
   },
-  
   {
     "name": "Croblanc Token",
     "symbol": "CROBLANC",
@@ -415,5 +406,13 @@
     "chainId": 25,
     "decimals": 9,
     "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0x8b0D1164e98DD0592598B56C1Baa86462c73A2d1/logo.png"
+  },
+  {
+    "name": "Kaguni",
+    "symbol": "Kagu",
+    "address": "0xB73b49aAb0B354A7868f9AD36c7a6AC357E20492",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0xB73b49aAb0B354A7868f9AD36c7a6AC357E20492/logo.png"
   }
 ]
