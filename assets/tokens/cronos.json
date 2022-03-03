@@ -304,14 +304,6 @@
     "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0xe6052a9a4c0A2f14ADC9876A3A1a7b2882f5F139/logo.png"
   },
   {
-    "name": "Frens",
-    "symbol": "FRENS",
-    "address": "0x0EdeC4bE261B22be6096Ec4960247697891A2045",
-    "chainId": 25,
-    "decimals": 9,
-    "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0x0EdeC4bE261B22be6096Ec4960247697891A2045/logo.png"
-  },
-  {
     "name": "Lazy Horse Race Club",
     "symbol": "LHRC",
     "address": "0xEfD450027bD0EE84AfaFbC75f5A80C367eFBF651",
