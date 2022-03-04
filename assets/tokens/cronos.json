@@ -406,5 +406,21 @@
     "chainId": 25,
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0xB73b49aAb0B354A7868f9AD36c7a6AC357E20492/logo.png"
+  },
+  {
+    "name": "V3SToken",
+    "symbol": "V3S",
+    "address": "0xC7e99a2f064Cf86aF91Db252a9D8Bc16e6fE7427",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0xC7e99a2f064Cf86aF91Db252a9D8Bc16e6fE7427/logo.png"
+  },
+  {
+    "name": "VSHARE",
+    "symbol": "VSHARE",
+    "address": "0xdcC261c03cD2f33eBea404318Cdc1D9f8b78e1AD",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0xdcC261c03cD2f33eBea404318Cdc1D9f8b78e1AD/logo.png"
   }
 ]
