@@ -422,8 +422,7 @@
     "chainId": 25,
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0xdcC261c03cD2f33eBea404318Cdc1D9f8b78e1AD/logo.png"
-  }
-  ,
+  },
   {
     "name": "SPHERE Token",
     "symbol": "SPHERE",
@@ -431,5 +430,13 @@
     "chainId": 25,
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0xc9FDE867a14376829Ab759F4C4871F67e2d3E441/logo.png"
+  },
+  {
+    "name": "ApeCoin",
+    "symbol": "APE",
+    "address": "0x7aE97042a4A0eB4D1eB370C34BfEC71042a056B7",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0x7aE97042a4A0eB4D1eB370C34BfEC71042a056B7/logo.png"
   }
 ]
