@@ -57,7 +57,7 @@
   },
   {
     "name": "Polygon",
-    "symbol": "MATIC",
+    "symbol": "multiMATIC",
     "address": "0xc9BAA8cfdDe8E328787E29b4B078abf2DaDc2055",
     "chainId": 25,
     "decimals": 18,
@@ -72,8 +72,8 @@
     "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0x765277EebeCA2e31912C9946eAe1021199B39C61/logo.png"
   },
   {
-    "name": "Fantom",
-    "symbol": "FTM",
+    "name": "multi Fantom",
+    "symbol": "multiFTM",
     "address": "0xB44a9B6905aF7c801311e8F4E76932ee959c663C",
     "chainId": 25,
     "decimals": 18,
