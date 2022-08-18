@@ -15,6 +15,7 @@
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0xadbd1231fb360047525BEdF962581F3eee7b49fe/logo.png"
   },
+
   {
     "name": "USD Coin",
     "symbol": "USDC",
