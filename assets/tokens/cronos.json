@@ -329,6 +329,14 @@
     "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0x8174BaC1453c3AC7CaED909c20ceaDeb5E1CDA00/logo.png"
   },
   {
+    "name": "CroNodes Finance",
+    "symbol": "CRNF",
+    "address": "0x6eDd4e7A5bd9688AAb374E5A0447c2A2FF10fAEA",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0x6eDd4e7A5bd9688AAb374E5A0447c2A2FF10fAEA/logo.png"
+  },
+  {
     "name": "Agile",
     "symbol": "AGL",
     "address": "0xA4434AFEae0dECb9820D906BF01b13291D00651a",
